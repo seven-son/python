@@ -1,7 +1,7 @@
 # 目录
 
 * [第1章 语言基础](ch1-basic/readme.md)
-   * [1.1 Go语言创世纪](ch1-basic/ch1-01-genesis.md)
+   * [1.1 python语言创世纪](ch1-basic/ch1-01-genesis.md)
    * [1.2 Hello, World 的革命](ch1-basic/ch1-02-hello-revolution.md)
    * [1.3 数组、字符串和切片](ch1-basic/ch1-03-array-string-and-slice.md)
    * [1.4 函数、方法和接口](ch1-basic/ch1-04-func-method-interface.md)
